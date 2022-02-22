@@ -20,7 +20,9 @@ TEMA: CARACTERÍSTICAS DE LA ONDA SENOIDAL
 Objetivo General:
 
 Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera correcta tanto en forma práctica mediante el simulador DCACLAB como de forma teorica.
+
 Objetivos Específicos:
+
 Aplicar los conocimientos impartidos en clase sobre Ondas senoidales y ponerlos en práctica mediante este laboratorio.
 Conocer el concepto fundamental de ondas senoidales y entender como se aplican en eléctrica y electrónica.
 Aprender cómo obtener una Onda senoidal mediante diferentes formas y mediante algunos aparatos aptos para esto.
