@@ -28,6 +28,9 @@ Conocer las partes por la que está formada una Onda senoidal para tener un mejo
 
 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/94026628/155044497-e45efc53-07eb-4143-83f5-96942e637885.png)
+
+
 3 REQUISITOS PREVIOS.
 Investigue la representación de la onda senoidal, tanto en su forma gráfica como en su forma matemática.
 
