@@ -23,10 +23,7 @@ Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera c
 
 Objetivos Específicos:
 
-Aplicar los conocimientos impartidos en clase sobre Ondas senoidales y ponerlos en práctica mediante este laboratorio.
-Conocer el concepto fundamental de ondas senoidales y entender como se aplican en eléctrica y electrónica.
-Aprender cómo obtener una Onda senoidal mediante diferentes formas y mediante algunos aparatos aptos para esto.
-Conocer las partes por la que está formada una Onda senoidal para tener un mejor entendimiento a la hora de ponerlas en práctica.
+* Aplicar
 
 2. MARCO TEÓRICO 
 
