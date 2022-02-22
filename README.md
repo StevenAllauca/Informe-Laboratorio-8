@@ -18,12 +18,19 @@ TEMA: CARACTERÍSTICAS DE LA ONDA SENOIDAL
 1. OBJETIVOS
 
 Objetivo General:
-
-Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera correcta tanto en forma práctica mediante el simulador DCACLAB como de forma teorica.
-
+ 
+ Conocer el funcionamiento de las Ondas senoidales y poderlas aplicar de manera correcta tanto en forma práctica mediante el simulador DCACLAB como de forma teórica.
+  
+  
+   
 Objetivos Específicos:
 
-* Aplicar
+  
+   - Aplicar los conocimientos impartidos en clase sobre Ondas senoidales y ponerlos en práctica mediante este laboratorio.
+   - Conocer el concepto fundamental de ondas senoidales y entender como se aplican en eléctrica y electrónica.
+   - Aprender cómo obtener una Onda senoidal mediante diferentes formas y mediante algunos aparatos aptos para esto. 
+       
+
 
 2. MARCO TEÓRICO 
 
@@ -92,13 +99,14 @@ f: 1/0.0004 s = 2500 (Hz)
 
 4. VIDEO https://youtu.be/tRfTzZHuF8w 
 5. CONCLUSIONES:
-Al haber realizado la práctica de laboratorio concluimos que una Onda senoidal es muy útil en Corriente Alterna para poder representar el valor de la tensión a través de un tiempo continuamente variable.
 
-Aprendimos que existen varias formas de obtener una Senoidal a más del Osciloscopio que fue el que usamos en esta práctica de laboratorio como el Oscilador de Wein.
 
-También observamos que para el manejo de ondas senoidales el osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas y nos va permitir encontrar los valores y formas adecuadas.
+- Al haber realizado la práctica de laboratorio concluimos que una Onda senoidal es muy útil en Corriente Alterna para poder representar el valor de la tensión a través de un tiempo continuamente variable. 
+-	Aprendimos que existen varias formas de obtener una Senoidal a más del Osciloscopio que fue el que usamos en esta práctica de laboratorio como el Oscilador de Wein. 
 
-Con esta práctica aprendimos a usar un poco más el Osciloscopio y a dominar valores como voltaje pico, frecuencia de la tensión y la fabricación de ondas senoidales.
+- También observamos que para el manejo de ondas senoidales el osciloscopio va a tener mayor precisión que el multímetro debido a que el diseño de este fue creado para medir corrientes alternas y nos va permitir encontrar los valores y formas adecuadas. 
+
+- Con esta práctica aprendimos a usar un poco más el Osciloscopio y a dominar valores como voltaje pico, frecuencia de la tensión y la fabricación de  ondas senoidales. 
 
 5. BIBLIOGRAFÍA:
 F. (2021). Principles Of Electric Circuits, 8Ed. Pearson
